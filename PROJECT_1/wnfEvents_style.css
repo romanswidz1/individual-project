@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+#events{
+	position: relative;
+	right:20%;
+	font-size:larger;
+	top:50px;
+}
+
+#signup{
+	float:inline-end;
+	position:relative;
+	bottom:300px;
+	left:20%
+}

@@ -1,0 +1,74 @@
+@charset "UTF-8";
+
+html{
+	background-image: url("sfvcastle.jpg");
+}
+
+body{
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1050px;
+	min-width: 500px;
+	background-color: whitesmoke;
+	text-align: center;
+	font-family: 'Marvel', sans-serif;
+}
+
+body > img{
+	width:100%;
+	height:auto:
+}
+
+header ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: auto;
+	background-color: #ccbb3ef0;
+	min-width:500px;
+}
+
+header li{
+	width: 28%;
+	float: left;
+	margin: 2.5%;
+}
+
+header li a{
+	display: block;
+	text-decoration: none;
+	font-size:25px
+}
+
+header li a:hover{
+	background-color: black;
+	color:white;
+}
+
+ul {
+	list-style-type: none;
+}
+
+footer{
+	margin:0;
+	padding:0;
+    overflow:auto;
+	background-color: #9e9b9a8c;
+	min-width:500px;
+}
+
+footer li{
+	width: 30%;
+	float:left;
+	margin:8px
+}
+
+footer a{
+	text-decoration:none;
+	font-size:22px;
+}
+
+footer a:hover{
+	background-color:black;
+	color:white;
+}

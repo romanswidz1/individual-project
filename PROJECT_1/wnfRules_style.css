@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+div img{
+    max-width:300px;
+    max-height:auto;
+}

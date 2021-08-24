@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+
+#discord img{
+	max-width: 200px;
+	max-height: auto;
+
+}
+
+#about{
+	position:auto;
+	min-width: 500px;
+	padding:20px
+}
+
+#side{
+	margin-right:auto;
+	margin-left:50%;
+	min-width:500px;
+}
+
+iframe{
+	float:left;
+	margin-left:10px;
+	min-width:500px;
+}
